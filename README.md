@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Credit Card Browser
+
+A very first grasp of React, or rather a searchbar filtering fake credit cards. The data of the latter come from [CardGuru](https://cardguru.io/) and [DiceBear](https://www.dicebear.com/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
